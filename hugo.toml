@@ -2,16 +2,32 @@ baseURL = 'https://highpingblorg.com/'
 languageCode = 'en-us'
 title = 'highpingblorg'
 theme = 'risotto'
+author = 'Omer "highpingblorg" Mokhamed Makhmud'
+paginate = 3
+DefaultContentLanguage = 'en-us'
+enableInlineShortCodes = true
+ignoreErrors = ['error-remote-getjson']
 
-sectionPagesMenu = "main"
+
+sectionPagesMenu = 'main'
 
 [params]
 noindex = false
 
 [params.theme]
-palette = "base16-dark"
+palette = 'base16-dark'
 
 [params.about]
-title = "highpingblorg"
-description = "the blog of Omer Mokhamed Makhmud."
-logo_image = "images/pfp.jpeg"
+title = 'highpingblorg'
+description = 'the blog of __omer mokhamed makhmud__. a cybersecurity and open-source enthusiast.'
+logo_image = 'images/pfp.jpeg'
+
+[[params.socialLinks]]
+icon = 'fa-brands fa-github'
+title = 'github'
+url = 'https://github.com/highpingblorg'
+
+[[params.socialLinks]]
+icon = 'fa-brands fa-linkedin'
+title = 'LinkedIn'
+url = 'https://www.linkedin.com/in/omermm/'
