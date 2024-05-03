@@ -2,3 +2,16 @@ baseURL = 'https://highpingblorg.com/'
 languageCode = 'en-us'
 title = 'highpingblorg'
 theme = 'risotto'
+
+sectionPagesMenu = "main"
+
+[params]
+noindex = false
+
+[params.theme]
+palette = "base16-dark"
+
+[params.about]
+title = "highpingblorg"
+description = "the blog of Omer Mokhamed Makhmud."
+logo_image = "images/pfp.jpeg"
