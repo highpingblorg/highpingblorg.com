@@ -2,80 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>highpingblorg</title>
-    <link>http://localhost:1313/</link>
+    <link>https://highpingblorg.com/</link>
     <description>Recent content on highpingblorg</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Jun 2024 13:56:18 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cybersecurity Challenge Belgium</title>
-      <link>http://localhost:1313/blog/cybersecurity-challenge-belgium/</link>
-      <pubDate>Mon, 10 Jun 2024 13:56:18 +0200</pubDate>
-      <guid>http://localhost:1313/blog/cybersecurity-challenge-belgium/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cybersec Europe</title>
-      <link>http://localhost:1313/blog/cybersec-europe/</link>
-      <pubDate>Mon, 10 Jun 2024 13:55:42 +0200</pubDate>
-      <guid>http://localhost:1313/blog/cybersec-europe/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>I Force Digital Forensics</title>
-      <link>http://localhost:1313/blog/i-force-digital-forensics/</link>
-      <pubDate>Mon, 10 Jun 2024 13:55:30 +0200</pubDate>
-      <guid>http://localhost:1313/blog/i-force-digital-forensics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Inuits Open Source Cafe</title>
-      <link>http://localhost:1313/blog/inuits-open-source-cafe/</link>
-      <pubDate>Mon, 10 Jun 2024 13:54:05 +0200</pubDate>
-      <guid>http://localhost:1313/blog/inuits-open-source-cafe/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Think Nxt Proximus</title>
-      <link>http://localhost:1313/blog/think-nxt-proximus/</link>
-      <pubDate>Mon, 10 Jun 2024 13:52:59 +0200</pubDate>
-      <guid>http://localhost:1313/blog/think-nxt-proximus/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Linux and Open Source Threat Intelligence</title>
-      <link>http://localhost:1313/projects/linux-and-open-source-threat-intelligence/</link>
-      <pubDate>Mon, 10 Jun 2024 13:51:56 +0200</pubDate>
-      <guid>http://localhost:1313/projects/linux-and-open-source-threat-intelligence/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Security Audit</title>
-      <link>http://localhost:1313/projects/security-audit/</link>
-      <pubDate>Mon, 10 Jun 2024 13:51:37 +0200</pubDate>
-      <guid>http://localhost:1313/projects/security-audit/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Honeypot</title>
-      <link>http://localhost:1313/projects/honeypot/</link>
-      <pubDate>Mon, 10 Jun 2024 13:45:55 +0200</pubDate>
-      <guid>http://localhost:1313/projects/honeypot/</guid>
-      <description>Honeypot Project </description>
-    </item>
+    <lastBuildDate>Thu, 30 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://highpingblorg.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Red Teaming With Jayson Street</title>
-      <link>http://localhost:1313/podcast/red-teaming-with-jayson-street/</link>
+      <link>https://highpingblorg.com/podcast/red-teaming-with-jayson-street/</link>
       <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/podcast/red-teaming-with-jayson-street/</guid>
+      <guid>https://highpingblorg.com/podcast/red-teaming-with-jayson-street/</guid>
       <description>In this very special episode, hosts Brendan Craven and I sit down with Jayson E. Street, a world-famous hacker and seasoned veteran in the red teaming field. Jayson is known for his successful high-profile security awareness engagements, having infiltrated banks, hotels, government facilities, biochemical companies, and more institutions around the world. He’s also spoken at DEF CON, DerbyCon, and several other events on a variety of InfoSec subjects. Over the course of an hour, Jayson shares his valuable insights and experiences with everyone, recounts some of his most memorable stories, and imparts lessons on becoming a better security auditor.</description>
     </item>
     <item>
       <title>DevOps and Observability With Kris Buytaert</title>
-      <link>http://localhost:1313/podcast/devops-and-observability-with-kris-buytaert/</link>
+      <link>https://highpingblorg.com/podcast/devops-and-observability-with-kris-buytaert/</link>
       <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/podcast/devops-and-observability-with-kris-buytaert/</guid>
+      <guid>https://highpingblorg.com/podcast/devops-and-observability-with-kris-buytaert/</guid>
       <description>In this episode, hosts Brendan Craven and I chat with Kris Buytaert, one of the first instigators of the global DevOps movement. Kris is a DevOps and open-source expert at Inuits, where he is a co-founder and CTO. He is also a co-founder of O11y, a company which supports observability stacks and provides expert insights to integrate observability into systems and application environments. Kris shares his journey through the history of DevOps, discussing its integration into development environments and the cultural shifts it necessitates.</description>
     </item>
   </channel>
