@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/podcast/devops-and-observability-with-kris-buytaert/</loc>
+    <lastmod>2024-06-10T13:58:02+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcast/</loc>
+    <lastmod>2024-06-10T13:58:02+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2024-06-10T13:56:18+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/cybersecurity-challenge-belgium/</loc>
+    <lastmod>2024-06-10T13:56:18+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/cybersec-europe/</loc>
+    <lastmod>2024-06-10T13:55:42+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/i-force-digital-forensics/</loc>
+    <lastmod>2024-06-10T13:55:30+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/inuits-open-source-cafe/</loc>
+    <lastmod>2024-06-10T13:54:05+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/think-nxt-proximus/</loc>
+    <lastmod>2024-06-10T13:52:59+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/linux-and-open-source-threat-intelligence/</loc>
+    <lastmod>2024-06-10T13:51:56+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2024-06-10T13:51:56+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/security-audit/</loc>
+    <lastmod>2024-06-10T13:51:37+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/honeypot/</loc>
+    <lastmod>2024-06-10T13:45:55+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-05-03T13:55:44+02:00</lastmod>
   </url><url>
