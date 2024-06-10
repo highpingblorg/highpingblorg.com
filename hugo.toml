@@ -19,7 +19,7 @@ palette = 'base16-dark'
 
 [params.about]
 title = 'highpingblorg'
-description = 'the blog of __omer mokhamed makhmud__. a cybersecurity and open-source enthusiast.'
+description = 'The blog of __Omer Mokhamed Makhmud__. A Cybersecurity and Open-source enthusiast.'
 logo_image = 'images/pfp.jpeg'
 
 [[params.socialLinks]]
