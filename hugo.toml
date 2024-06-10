@@ -13,6 +13,7 @@ sectionPagesMenu = 'main'
 
 [params]
 noindex = false
+customCSS = "css/custom.css"
 
 [params.theme]
 palette = 'base16-dark'
