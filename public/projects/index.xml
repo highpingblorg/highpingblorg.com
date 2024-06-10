@@ -2,11 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on highpingblorg</title>
-    <link>https://highpingblorg.com/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on highpingblorg</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://highpingblorg.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux and Open-source Threat Intelligence</title>
+      <link>http://localhost:1313/projects/linux-and-open-source-threat-intelligence/</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/linux-and-open-source-threat-intelligence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security Audit</title>
+      <link>http://localhost:1313/projects/security-audit/</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/security-audit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Honeypot</title>
+      <link>http://localhost:1313/projects/honeypot/</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/honeypot/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

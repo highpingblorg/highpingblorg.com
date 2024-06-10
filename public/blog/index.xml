@@ -2,11 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on highpingblorg</title>
-    <link>https://highpingblorg.com/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blogs on highpingblorg</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://highpingblorg.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Jun 2024 13:56:18 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cybersecurity Challenge Belgium</title>
+      <link>http://localhost:1313/blog/cybersecurity-challenge-belgium/</link>
+      <pubDate>Mon, 10 Jun 2024 13:56:18 +0200</pubDate>
+      <guid>http://localhost:1313/blog/cybersecurity-challenge-belgium/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cybersec Europe</title>
+      <link>http://localhost:1313/blog/cybersec-europe/</link>
+      <pubDate>Mon, 10 Jun 2024 13:55:42 +0200</pubDate>
+      <guid>http://localhost:1313/blog/cybersec-europe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>I-Force Digital Forensics</title>
+      <link>http://localhost:1313/blog/i-force-digital-forensics/</link>
+      <pubDate>Mon, 10 Jun 2024 13:55:30 +0200</pubDate>
+      <guid>http://localhost:1313/blog/i-force-digital-forensics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inuits Open-source Cafe</title>
+      <link>http://localhost:1313/blog/inuits-open-source-cafe/</link>
+      <pubDate>Mon, 10 Jun 2024 13:54:05 +0200</pubDate>
+      <guid>http://localhost:1313/blog/inuits-open-source-cafe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Think NXT Proximus</title>
+      <link>http://localhost:1313/blog/think-nxt-proximus/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/think-nxt-proximus/</guid>
+      <description>Proximus Think NXT is a one-day event focused on innovation in technology. The most recent event, which I attended, Think NXT 2023, took place on November 30th, 2023. The next event, Think NXT 2024, is scheduled for Thursday, November 28th, 2024 at Nekkerhal, Mechelen.&#xA;The event features keynote speakers, interactive demos, breakout sessions, and networking opportunities. It&amp;rsquo;s designed to be a place to learn about new technologies, exchange ideas with other attendees, and get inspired by industry leaders.</description>
+    </item>
   </channel>
 </rss>
