@@ -6,15 +6,8 @@
     <description>Recent content on highpingblorg</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Jun 2024 13:56:18 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 13:55:42 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cybersecurity Challenge Belgium</title>
-      <link>http://localhost:1313/blog/cybersecurity-challenge-belgium/</link>
-      <pubDate>Mon, 10 Jun 2024 13:56:18 +0200</pubDate>
-      <guid>http://localhost:1313/blog/cybersecurity-challenge-belgium/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Cybersec Europe</title>
       <link>http://localhost:1313/blog/cybersec-europe/</link>
@@ -56,6 +49,13 @@
       <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/podcast/devops-and-observability-with-kris-buytaert/</guid>
       <description>In this episode, hosts Brendan Craven and I chat with Kris Buytaert, one of the first instigators of the global DevOps movement. Kris is a DevOps and open-source expert at Inuits, where he is a co-founder and CTO. He is also a co-founder of O11y, a company which supports observability stacks and provides expert insights to integrate observability into systems and application environments. Kris shares his journey through the history of DevOps, discussing its integration into development environments and the cultural shifts it necessitates.</description>
+    </item>
+    <item>
+      <title>Cybersecurity Challenge Belgium 2024</title>
+      <link>http://localhost:1313/blog/cybersecurity-challenge-belgium/</link>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/cybersecurity-challenge-belgium/</guid>
+      <description>The Cyber Security Challenge Belgium is a Capture The Flag (CTF) competition designed for students in Belgium.&#xA;It&amp;rsquo;s a computer security competition where teams of up to four students work together to solve challenges over a limited time. These challenges cover a wide range of cybersecurity topics, including cryptography, reverse engineering, and web application security.&#xA;Here&amp;rsquo;s some key information about the Cybersecurity Challenge Belgium:&#xA;Target Audience: Students in Belgium Competition Style: Capture The Flag (CTF) Team Size: Maximum 4 students Challenge Areas: Cryptography, reverse engineering, network security, web application security, wireless and forensics analysis Challenge Difficulty: Ranges from beginner to expert The competition is organized by Toreon and Nviso with the goal of raising awareness about cybersecurity careers and building a more secure digital society.</description>
     </item>
     <item>
       <title>Security Audit</title>
