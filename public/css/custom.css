@@ -5,3 +5,8 @@ img:not(.about__logo) {
   margin-right: auto;
 	padding: 2rem;
 }
+
+iframe {
+	padding: 2rem;
+	width: 90%;
+}

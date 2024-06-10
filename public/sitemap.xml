@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/podcast/devops-and-observability-with-kris-buytaert/</loc>
-    <lastmod>2024-06-10T13:58:02+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/podcast/</loc>
+    <lastmod>2024-06-10T14:09:35+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcast/red-teaming-with-jayson-street/</loc>
+    <lastmod>2024-06-10T14:09:35+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcast/devops-and-observability-with-kris-buytaert/</loc>
     <lastmod>2024-06-10T13:58:02+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
