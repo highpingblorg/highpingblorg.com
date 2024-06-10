@@ -4,6 +4,8 @@ date = 2023-11-30
 draft = false
 +++
 
+![Think NXT Logo](nxt-logo.jpg)
+
 Proximus Think NXT is a one-day event focused on innovation in technology. The most recent event, which I attended, Think NXT 2023, took place on November 30th, 2023. The next event, Think NXT 2024, is scheduled for  Thursday, November 28th, 2024 at Nekkerhal, Mechelen.
 
 The event features keynote speakers, interactive demos, breakout sessions, and networking opportunities. It's designed to be a place to learn about new technologies, exchange ideas with other attendees, and get inspired by industry leaders.

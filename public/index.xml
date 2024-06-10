@@ -6,15 +6,8 @@
     <description>Recent content on highpingblorg</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Jun 2024 13:55:42 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 13:55:30 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cybersec Europe</title>
-      <link>http://localhost:1313/blog/cybersec-europe/</link>
-      <pubDate>Mon, 10 Jun 2024 13:55:42 +0200</pubDate>
-      <guid>http://localhost:1313/blog/cybersec-europe/</guid>
-      <description></description>
-    </item>
     <item>
       <title>I-Force Digital Forensics</title>
       <link>http://localhost:1313/blog/i-force-digital-forensics/</link>
@@ -42,6 +35,13 @@
       <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/podcast/red-teaming-with-jayson-street/</guid>
       <description>In this very special episode, hosts Brendan Craven and I sit down with Jayson E. Street, a world-famous hacker and seasoned veteran in the red teaming field. Jayson is known for his successful high-profile security awareness engagements, having infiltrated banks, hotels, government facilities, biochemical companies, and more institutions around the world. He’s also spoken at DEF CON, DerbyCon, and several other events on a variety of InfoSec subjects. Over the course of an hour, Jayson shares his valuable insights and experiences with everyone, recounts some of his most memorable stories, and imparts lessons on becoming a better security auditor.</description>
+    </item>
+    <item>
+      <title>Cybersec Europe</title>
+      <link>http://localhost:1313/blog/cybersec-europe/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/cybersec-europe/</guid>
+      <description>Cybersec Europe 2024 was a major cybersecurity event held in Brussels,&#xA;Belgium on May 29th and 30th, 2024. It served as a key platform for cybersecurity professionals to exchange information, foster collaboration, and address the growing challenges of cyber threats.&#xA;Here&amp;rsquo;s a quick rundown of the event:&#xA;Focus: Cybersecurity, fostering innovation in the field. Target Audience: Cybersecurity experts, policymakers, tech enthusiasts, and professionals from various sectors. Activities: Keynotes by industry leaders, workshops, exhibitions showcasing cutting-edge solutions, and networking opportunities.</description>
     </item>
     <item>
       <title>DevOps and Observability With Kris Buytaert</title>

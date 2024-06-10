@@ -6,15 +6,8 @@
     <description>Recent content in Blogs on highpingblorg</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Jun 2024 13:55:42 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 13:55:30 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cybersec Europe</title>
-      <link>http://localhost:1313/blog/cybersec-europe/</link>
-      <pubDate>Mon, 10 Jun 2024 13:55:42 +0200</pubDate>
-      <guid>http://localhost:1313/blog/cybersec-europe/</guid>
-      <description></description>
-    </item>
     <item>
       <title>I-Force Digital Forensics</title>
       <link>http://localhost:1313/blog/i-force-digital-forensics/</link>
@@ -28,6 +21,13 @@
       <pubDate>Mon, 10 Jun 2024 13:54:05 +0200</pubDate>
       <guid>http://localhost:1313/blog/inuits-open-source-cafe/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Cybersec Europe</title>
+      <link>http://localhost:1313/blog/cybersec-europe/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/cybersec-europe/</guid>
+      <description>Cybersec Europe 2024 was a major cybersecurity event held in Brussels,&#xA;Belgium on May 29th and 30th, 2024. It served as a key platform for cybersecurity professionals to exchange information, foster collaboration, and address the growing challenges of cyber threats.&#xA;Here&amp;rsquo;s a quick rundown of the event:&#xA;Focus: Cybersecurity, fostering innovation in the field. Target Audience: Cybersecurity experts, policymakers, tech enthusiasts, and professionals from various sectors. Activities: Keynotes by industry leaders, workshops, exhibitions showcasing cutting-edge solutions, and networking opportunities.</description>
     </item>
     <item>
       <title>Cybersecurity Challenge Belgium 2024</title>

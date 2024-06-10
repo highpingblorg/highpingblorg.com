@@ -4,6 +4,7 @@ date = 2024-04-12
 draft = false
 +++
 
+![CSCBE Logo](cscbe-logo.svg)
 
 The Cyber Security Challenge Belgium is a Capture The Flag (CTF) competition designed for students in Belgium.
 
