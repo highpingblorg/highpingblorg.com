@@ -19,7 +19,7 @@ customCSS = "css/custom.css"
 palette = 'base16-dark'
 
 [params.about]
-title = 'highpingblorg'
+title = ' highpingblorg'
 description = 'The blog of __Omer Mokhamed Makhmud__. A Cybersecurity and Open-source enthusiast.'
 logo_image = 'images/pfp.jpeg'
 
