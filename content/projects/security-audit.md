@@ -1,7 +1,7 @@
 +++
 title = 'Security Audit'
 date = 2023-12-18
-draft = true
+draft = false
 +++
 
 In today’s rapidly evolving cyber landscape, securing an organization’s assets goes beyond just implementing the latest technology. It requires a deep understanding of both technical and social aspects of security. Recently, I had the opportunity to perform comprehensive security audits for two separate organizations, aiming to assess and enhance their overall security posture. Here’s a detailed look into the process and the valuable insights gained from these audits.
