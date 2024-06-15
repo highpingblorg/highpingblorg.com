@@ -17,13 +17,3 @@ One of my key strengths is my ability to stay updated with the latest advancemen
 
 My educational and professional career started in 2017 when I started a 4 year programming course at the Tambov State Technical University (TSTU) where I acquired and honed my skills in software development. After graduating, I moved my gaze towards Cybersecurity by enrolling in a Cybersecurity bachelor's course at Howest University, where for the past 3 years I have been deeply involved with security in different facets of IT. During my studies at Howest, I was fortunate enough to receive an internship offer from Inuits, a company that prides themselves with providing open-source business solutions, which made me passionate about Open-source software.
 
-## About the Website
-
-The website is powered by HugoJS, a modern and efficient static site generator. HugoJS allows us to create fast, reliable, and secure websites.
-
-What Makes HugoJS Special?
-
-- Blazing Speed: HugoJS generates static files quickly, ensuring rapid load times.
-- Flexibility: It supports diverse content types and easy customization.
-- SEO-Friendly: Clean, semantic HTML enhances our search engine visibility.
-- Enhanced Security: Static sites reduce server-side vulnerabilities.
