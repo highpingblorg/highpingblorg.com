@@ -6,8 +6,15 @@
     <description>Recent content on highpingblorg</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Jun 2024 13:55:30 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 16:08:59 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This Website</title>
+      <link>http://localhost:1313/projects/this-website/</link>
+      <pubDate>Thu, 13 Jun 2024 16:08:59 +0200</pubDate>
+      <guid>http://localhost:1313/projects/this-website/</guid>
+      <description>In today&amp;rsquo;s digital age, a personal portfolio website is essential for showcasing your skills, projects, and experiences. Whether you&amp;rsquo;re a developer, designer, writer, or any other professional, having an online presence can significantly boost your visibility and credibility. This article will explain how I created this website.&#xA;Why Hugo? Hugo is one of the most popular open-source static site generators. It&amp;rsquo;s known for its speed, flexibility, and ease of use. Here are a few reasons why Hugo is an excellent choice for your portfolio:</description>
+    </item>
     <item>
       <title>I-Force Digital Forensics</title>
       <link>http://localhost:1313/blog/i-force-digital-forensics/</link>
