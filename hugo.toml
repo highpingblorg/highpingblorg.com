@@ -4,7 +4,17 @@ title = 'highpingblorg'
 author = 'Omer Mokhamed Makhmud'
 theme = 'risotto'
 
+[params]
+custom_css = ["css/overrides.css"]
+
 [params.about]
 title = 'highpingblorg'
 description = 'totally a professional blog'
 logo_image = 'images/logo.png'
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    url = "/posts/"
+    weight = 10
