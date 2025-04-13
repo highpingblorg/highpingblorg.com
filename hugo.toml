@@ -18,3 +18,8 @@ logo_image = 'images/logo.png'
     name = "posts"
     url = "/posts/"
     weight = 10
+
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/highpingblorg"
