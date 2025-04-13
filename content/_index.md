@@ -12,3 +12,5 @@ After that professional and brief introduction, welcome to my blog. Here I am pl
 So enjoy whatever content I managed to post.
 
 ![Blink cat](https://media.tenor.com/5eP5dJ8mNKMAAAAM/cat-cute.gif)
+
+\* There is a non-zero chance I will forget :3
