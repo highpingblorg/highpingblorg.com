@@ -23,3 +23,7 @@ logo_image = 'images/logo.png'
 icon = "fa-brands fa-github"
 title = "GitHub"
 url = "https://github.com/highpingblorg"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
